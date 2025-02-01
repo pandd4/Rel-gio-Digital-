@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'arial', forma;
+	font-size:22px;
+}
+li{
+	list-style:none;
+}
+html {
+	height: 100%;
+	background: white;
+	background: radial-gradient(circle, #fff 24%, #CCE);
+	background-size: cover;
+}
+#container{
+	width: 290px;
+	text-align: center;
+	height:auto;
+	margin:4px auto;
+}
+#calculadora{
+	width: 234px;
